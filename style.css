@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+span{
+    color: blue;
+}
+.container{
+width: 500px;
+height: fit-content;
+background-color: aliceblue;
+border-radius: 10px;
+border: solid 5px #022419;
+}
+.bolinha{
+width: 100px;
+height: 100px;
+background-color: #022419;
+border-radius: 50px;
+}
+.nome{
+    font-family: monospace, sans-serif; font-size: 30px
+}
+
+.frase{
+color: magenta
+}
